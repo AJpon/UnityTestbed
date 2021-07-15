@@ -57,7 +57,7 @@
     },
     "com.unity.mathematics": {
       "version": "1.2.1",
-      "depth": 2,
+      "depth": 1,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
@@ -268,6 +268,15 @@
       "source": "registry",
       "dependencies": {
         "com.unity.render-pipelines.high-definition": "7.3.1"
+      },
+      "url": "https://registry.npmjs.com"
+    },
+    "jp.keijiro.klak.motion": {
+      "version": "1.0.2",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.mathematics": "1.2.1"
       },
       "url": "https://registry.npmjs.com"
     },
